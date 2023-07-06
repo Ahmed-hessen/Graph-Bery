@@ -51,6 +51,11 @@
 .navbar .navbar-toggler:hover{
     color: var(--green-color);
 }
+@media (max-width:768px){
+    .navbar .navbar-nav .nav-link {
+    text-align: center;
+    }
+}
 /* end nav bar  */
 
 /* Start landing page  */
